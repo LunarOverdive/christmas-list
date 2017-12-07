@@ -12,3 +12,8 @@ to be used to it's potential. It also has another gigabyte of ram (I think), and
 framerate, the PS4 Pro produces a smoother locked framerate. In the end, the PS4 Pro is stronger and faster than the PS4.
 
 ![PS4 Pro Image](https://cdn.images.express.co.uk/img/dynamic/143/590x/PS4-Pro-Specs-709205.jpg)
+
+#### 2. [Astro A50's](https://www.astrogaming.com/headsets/A50-GEN3-PS4.html#)
+This is the headset that I want. It has a 15 hour wireless battery life, a base station to charge it, a built-in mixamp (To adjust the audio settings and fiddle with the stuff), and Dolby surround sound. It also has an online command center to fine-tune settings. In all, they have great sound, look cool, are **Wireless**, and have audio controls.
+
+![Astro A50's Image](https://www.astrogaming.com/dw/image/v2/AALZ_PRD/on/demandware.static/-/Sites-masterCatalog_AstroGaming_RP/default/dw96d3457f/product-images/3AS52-AGW9N-510_primary_3.jpg?sw=720&sh=720&sm=fit)
