@@ -17,3 +17,8 @@ framerate, the PS4 Pro produces a smoother locked framerate. In the end, the PS4
 This is the headset that I want. It has a 15 hour wireless battery life, a base station to charge it, a built-in mixamp (To adjust the audio settings and fiddle with the stuff), and Dolby surround sound. It also has an online command center to fine-tune settings. In all, they have great sound, look cool, are **Wireless**, and have audio controls.
 
 ![Astro A50's Image](https://www.astrogaming.com/dw/image/v2/AALZ_PRD/on/demandware.static/-/Sites-masterCatalog_AstroGaming_RP/default/dw96d3457f/product-images/3AS52-AGW9N-510_primary_3.jpg?sw=720&sh=720&sm=fit)
+
+#### 3. [Acer Monitor](https://www.bestbuy.com/site/acer-h6-series-23-ips-led-hd-monitor-black/4751006.p?skuId=4751006&ref=199&loc=zhehdLHc0f8&acampID=1&siteID=zhehdLHc0f8-YvSoRHULYARPTnE5qag5rg)
+This is an extremely cheap 23 inch monitor with full 1080p and great color. It does have a 5ms response time, which could ptentially become and issue in extremely fast moving games and such, but would be fine for almost everything. It is only $80 as of now, as it is on sale **(MIGHT WANT TO GET IT SOON)**. All in all, cheap, large, and pretty good all around.
+
+![Acer Monitor Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4751/4751006_sd.jpg;maxHeight=640;maxWidth=550)
